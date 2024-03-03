@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Boogaloo&display=swap');
+
+.box {
+    width: 60%;
+}
+
+.box1 {
+    width: 100%;
+    padding-left: 50px;
+}
+#box {
+    width: 100%;
+}
+
+.top {
+    font-family: 'Boogaloo', sans-serif;
+    background-color: rgb(243, 236, 236);
+}
+
+#box1 {
+    text-align: center;
+    color: #532f17;
+}
+.container1 p {
+    text-align: justify;
+}
+.content{
+    position: relative;
+    display: inline-block;
+    bottom: 950px;
+}
+.container a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+.container a:hover{
+    color: red;
+    transform: 1s;
+}
+.img img{
+    width: 40%;
+    position: relative;
+    display: inline-block;
+    bottom: 950px;
+}
+.content li a{
+    background-color: black;
+}
+#home{
+    color: red;
+}
+.box2 {
+    text-align: center;
+}
+
+.box3 {
+    background-color: rgb(51, 50, 50);
+    color: white;
+}
+.container2 {
+    text-align: center;
+}
+
+.image{
+    width: 100%;
+}
+#box4 {
+    background-color: #775741;
+}
+
+.content1 {
+    padding: 100px;
+    text-align: center;
+}
+
+#icon i {
+    padding-left: 1300px;
+    margin-top: -20%;
+    padding-top: 18%;
+    position: absolute;
+}
+
+.box3 p {
+    text-align: center;
+    margin: 20px;
+    padding-left: 30px;
+}
+
+.container2 P {
+    padding-left: 15%;
+}
+
+#heading1 {
+    color: red;
+}
+
+#heading2 {
+    color: red;
+}
+
+#heading3 {
+    color: red;
+}
+
+.para p {
+    color: #532f17;
+}
+.para h3 {
+    color: #532f17;
+}
+.container1 h2 {
+    padding-left: 10px;
+    padding-top: 25%;
+    color: #532f17;
+}
+
+.container1 h1 {
+    color: #532f17;
+}
+
+.container1 p {
+    padding-left: 10px;
+    color: #532f17;
+}
+
+.container1 h3 {
+    color: #532f17;
+}
